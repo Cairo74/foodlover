@@ -82,18 +82,6 @@ yarn build
 
 Os arquivos otimizados serão gerados na pasta `build/`.
 
-## 🌐 Deploy no GitHub Pages
-
-Este projeto está configurado para deploy no GitHub Pages. Para fazer o deploy:
-
-1. Certifique-se de que o repositório está no GitHub
-2. Execute o comando:
-```bash
-npm run deploy
-```
-
-O site será publicado automaticamente no GitHub Pages.
-
 ## 📂 Estrutura do Projeto
 
 ```
@@ -127,26 +115,3 @@ foodlover/
 4. **Depoimentos** - Feedback de clientes satisfeitos
 5. **Contato** - Formulário para entrar em contato
 6. **Footer** - Links úteis e redes sociais
-
-## 🤝 Contribuindo
-
-Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/MinhaFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️ por [Seu Nome]
-
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela!
-
